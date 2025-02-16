@@ -1,6 +1,3 @@
-# chat_app
-A new Flutter application.
-
 # 💬 Flutter Chat App – Real-time Messaging with Firebase & Dart  
 
 🚀 A **real-time chat application** built using **Flutter, Firebase, and Dart**. Secure, fast, and easy to use. Perfect for personal and business communication.  
